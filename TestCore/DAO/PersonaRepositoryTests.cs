@@ -64,16 +64,16 @@ namespace TestCore.DAO
             
             // Busqueda (no exitosa)
             {
+            //    Persona persona = repo.GetAll(null).FirstOrDefault();
+            //    Assert.Null(persona);
+            }
+
+            // Busqueda (no exitosa)
+            {
                 Persona persona = repo.GetAll(p => p.Rut.Equals("132204810")).FirstOrDefault();
                 Assert.Null(persona);
             }
-            
-            // Busqueda (no exitosa)
-            {
-                Persona persona = repo.GetAll(null).FirstOrDefault();
-                Assert.Null(persona);
-            }
-            
+                        
             // Todos
             {
                 IList<Persona> personas = repo.GetAll();

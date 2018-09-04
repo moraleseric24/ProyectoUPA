@@ -3362,11 +3362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\MORALES\\Proyectos\\PresUPA\\Core\\Core.csproj",
+      "projectUniqueName": "C:\\Users\\MORALES\\Proyectos\\ProyectoCotizacion\\ProyectoUPA\\Core\\Core.csproj",
       "projectName": "Core",
-      "projectPath": "c:\\Users\\MORALES\\Proyectos\\PresUPA\\Core\\Core.csproj",
+      "projectPath": "C:\\Users\\MORALES\\Proyectos\\ProyectoCotizacion\\ProyectoUPA\\Core\\Core.csproj",
       "packagesPath": "C:\\Users\\MORALES\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\MORALES\\Proyectos\\PresUPA\\Core\\obj\\",
+      "outputPath": "C:\\Users\\MORALES\\Proyectos\\ProyectoCotizacion\\ProyectoUPA\\Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

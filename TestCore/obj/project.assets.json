@@ -6584,11 +6584,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\MORALES\\Proyectos\\PresUPA\\TestCore\\TestCore.csproj",
+      "projectUniqueName": "C:\\Users\\MORALES\\Proyectos\\ProyectoCotizacion\\ProyectoUPA\\TestCore\\TestCore.csproj",
       "projectName": "TestCore",
-      "projectPath": "c:\\Users\\MORALES\\Proyectos\\PresUPA\\TestCore\\TestCore.csproj",
+      "projectPath": "C:\\Users\\MORALES\\Proyectos\\ProyectoCotizacion\\ProyectoUPA\\TestCore\\TestCore.csproj",
       "packagesPath": "C:\\Users\\MORALES\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\MORALES\\Proyectos\\PresUPA\\TestCore\\obj\\",
+      "outputPath": "C:\\Users\\MORALES\\Proyectos\\ProyectoCotizacion\\ProyectoUPA\\TestCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6605,8 +6605,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "c:\\Users\\MORALES\\Proyectos\\PresUPA\\Core\\Core.csproj": {
-              "projectPath": "c:\\Users\\MORALES\\Proyectos\\PresUPA\\Core\\Core.csproj"
+            "C:\\Users\\MORALES\\Proyectos\\ProyectoCotizacion\\ProyectoUPA\\Core\\Core.csproj": {
+              "projectPath": "C:\\Users\\MORALES\\Proyectos\\ProyectoCotizacion\\ProyectoUPA\\Core\\Core.csproj"
             }
           }
         }
