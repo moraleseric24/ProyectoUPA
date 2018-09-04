@@ -1,0 +1,11 @@
+C:\Users\MORALES\Proyectos\PresUPA\Core\bin\Debug\netcoreapp2.1\Core.deps.json
+C:\Users\MORALES\Proyectos\PresUPA\Core\bin\Debug\netcoreapp2.1\Core.runtimeconfig.json
+C:\Users\MORALES\Proyectos\PresUPA\Core\bin\Debug\netcoreapp2.1\Core.runtimeconfig.dev.json
+C:\Users\MORALES\Proyectos\PresUPA\Core\bin\Debug\netcoreapp2.1\Core.dll
+C:\Users\MORALES\Proyectos\PresUPA\Core\bin\Debug\netcoreapp2.1\Core.pdb
+C:\Users\MORALES\Proyectos\PresUPA\Core\obj\Debug\netcoreapp2.1\Core.csprojAssemblyReference.cache
+C:\Users\MORALES\Proyectos\PresUPA\Core\obj\Debug\netcoreapp2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\MORALES\Proyectos\PresUPA\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfoInputs.cache
+C:\Users\MORALES\Proyectos\PresUPA\Core\obj\Debug\netcoreapp2.1\Core.AssemblyInfo.cs
+C:\Users\MORALES\Proyectos\PresUPA\Core\obj\Debug\netcoreapp2.1\Core.dll
+C:\Users\MORALES\Proyectos\PresUPA\Core\obj\Debug\netcoreapp2.1\Core.pdb
