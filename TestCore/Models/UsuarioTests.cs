@@ -37,7 +37,7 @@ namespace TestCore.Models
             };
 
             // Error por persona Asociada null
-            Assert.Equal(Assert.Throws<ModelException>(() => usuario.Validate()).Message, "Se requiere la Persona");
+            Assert.Equal("Se requiere la Persona", Assert.Throws<ModelException>(() => usuario.Validate()).Message);
 
             usuario.Persona = new Persona()
                 {
@@ -49,7 +49,7 @@ namespace TestCore.Models
                 };
 
             // Error por password null o vacio
-            Assert.Equal(Assert.Throws<ModelException>(() => usuario.Validate()).Message, "Se requiere el Password");
+            Assert.Equal("Se requiere el Password", Assert.Throws<ModelException>(() => usuario.Validate()).Message);
 
             usuario.Password = "durrutia123";
 
